@@ -1,0 +1,1 @@
+# resete-de-planilha-via-App-Script
